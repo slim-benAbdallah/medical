@@ -1,0 +1,14 @@
+.bg-green {
+    background-color: #8ec1af!important;
+}
+.container{
+    background: #88b7a6;
+}
+.btn-search{
+    background-color: orange;
+    color: #fff;
+
+}
+.btn-search fa-icon{
+    padding-left: 6px;
+}

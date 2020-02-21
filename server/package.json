@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "gestion cabinet medical en particulier pour les dentistes",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "slim ben abdallah",
+  "license": "ISC"
+}
